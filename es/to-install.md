@@ -9,7 +9,7 @@ Como se mencionó arriba KumbiaPHP es muy fácil y en este sentido los
 requerimientos para hacer funcionar el framework son mínimos, a continuación
 se listan:
 
-  * Interprete PHP versión 5.4 o superior.
+  * Interprete PHP versión 5.4 o superior (Se recomienda usar PHP 7).
   * Servidor Web con soporte de reescritura de URL (Apache, Nginx, Cherokee, Lighttpd, Internet Information Server (IIS)).
   * Manejador de base de datos soportado por KumbiaPHP.
 
@@ -25,7 +25,7 @@ web (DocumentRoot). Para asegurar cierta uniformidad en el documento, en este
 capitulo se supone que se ha descomprimido el paquete del framework en el
 directorio kumbiaphp/ . Teniendo una estructura como la siguiente:
 ```
--- KumbiaPHP-master  
+-- kumbiaphp  
     |-- core 
     |-- vendors 
     |-- default  
